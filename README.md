@@ -1,6 +1,6 @@
 # Project-Hamilton
 
-Project Hamilton is a Formula 1 based Arduino Racecar which resember the Legendary Mercedes W14 which dominated the tracks at its time.
+Project Hamilton is a Formula 1 based Arduino Racecar which resembles the Legendary Mercedes W14 which dominated the tracks at its time.
 It uses WiFi based Remote control system to control the Car.
 Back wheels are powered by 2 6000 rpm motors to ensure high speed.
 Front wheel are steered with servo motors ensuring proper turning at critical moments.
